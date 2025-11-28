@@ -1,0 +1,8 @@
+Power BI Dashboard - Insurance Charges
+
+Suggested visuals:
+- Charges distribution histogram
+- Avg charges by smoker status (bar)
+- Charges vs BMI scatter with trendline
+- Region-wise average charges (map / bar)
+- Feature importance (from model / SHAP)
